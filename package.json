@@ -1,15 +1,15 @@
 {
-  "name": "CatKnows",
+  "name": "Chandru",
   "private": true,
-  "description": "A personal blog by @catnose99",
+  "description": "A personal blog by Chandru",
   "version": "0.1.0",
-  "author": "CatNose <catnose99@gmail.com>",
+  "author": " Chandru <kchandruk7@gmail.com>",
   "bugs": {
-    "url": "https://github.com/catnose99/CatKnows/issues"
+    "url": "https://github.com/chandruark/chandru.github.io/issues"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
-    "gatsby": "^2.0.118",
+    "gatsby": "^2.23.20",
     "gatsby-image": "^2.0.29",
     "gatsby-plugin-google-analytics": "^2.0.14",
     "gatsby-plugin-manifest": "^2.0.17",
